@@ -1,6 +1,6 @@
 # challenge-markdown 
-* HOUDRET JEAN-LOUIS
-![Moi](https://lh3.googleusercontent.com/ogw/ADea4I7fgYc77HJBOtegEEDm4fNZ3HRfAjjU3rXqhgfjRg=s83-c-mo)
+# HOUDRET JEAN-LOUIS
+![Moi](https://avatars.githubusercontent.com/u/5325532?s=60&v=4)
 ### Me, in one sentence : 
 Je suis une personne avec un grand coeur sociable et un grand timide lol!
 ### Me, data :
